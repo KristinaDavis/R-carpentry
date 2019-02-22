@@ -35,3 +35,11 @@ combine_ex<-c(ab_vec,"swc")
 cpx<-as.complex(char_vec)
 cpx[2]<-4-.5i
 s<- seq(1,10,by = 0.1)
+subs <-s[1:10]
+names(my_ex)<-c("a","b","c","d")
+my_ex<-5:8
+names
+my_ex
+str(cats$coat)
+cats$coat[4]<-"black"
+file.show(cats$coat)
