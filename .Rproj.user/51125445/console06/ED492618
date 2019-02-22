@@ -1,0 +1,29 @@
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ [K]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ cd Des[K[K[K[K[K[Kls
+my_script.R  R-tests.Rproj
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ pwd
+/home/captainkay/Desktop/data-shell/R-tests
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ mkdir data
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ cd data/
+]0;/home/captainkay/Desktop/data-shell/R-tests/data]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests/data[01;32mcaptainkay[00m:[01;34mdata[00m$ ls
+gapminder_data.csv
+]0;/home/captainkay/Desktop/data-shell/R-tests/data]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests/data[01;32mcaptainkay[00m:[01;34mdata[00m$ cd ..
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ pwd
+/home/captainkay/Desktop/data-shell/R-tests
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ git init
+Initialized empty Git repository in /home/captainkay/Desktop/data-shell/R-tests/.git/
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/[m
+	[31mR-tests.Rproj[m
+	[31mdata/[m
+	[31mmy_script.R[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ git add .
+]0;/home/captainkay/Desktop/data-shell/R-tests]0;captainkay@RoyalFortuneMint: ~/Desktop/data-shell/R-tests[01;32mcaptainkay[00m:[01;34mR-tests[00m$ 
